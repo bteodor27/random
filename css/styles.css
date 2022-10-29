@@ -1,0 +1,50 @@
+body{
+
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  
+}
+
+.qr
+{
+  font-family: 'Outfit', sans-serif;
+  background-color: white;
+  width: 15%;
+  height: auto;
+  margin : 200px auto;
+  border-radius: 10px;
+  padding-top: 10px;
+  position: relative;
+
+
+
+}
+
+.text
+{
+  width: 90%;
+  margin: auto;
+  padding-bottom: 10px;
+  font-weight: 700;
+  font-size: 15px;
+  padding-top: 10px;
+  color: hsl(218, 44%, 22%);
+
+}
+
+.text2
+{
+  width: 90%;
+  margin : auto;
+  font-weight: 400;
+  font-size: 10px;
+  color:hsl(220, 15%, 55%);
+  padding-bottom: 30px;
+}
+
+.img{
+  border-radius: 8px;
+  width: 80%;
+  position: relative;
+
+}
